@@ -7,20 +7,19 @@
 }
 
 :root {
-  --bg: #0b0f14;
-  --bg-card: #111820;
-  --bg-input: #161d27;
-  --bg-hover: #1a2230;
-  --border: #1e2a38;
-  --text: #e4e8ed;
-  --text-muted: #6b7a8d;
-  --green: #34d399;
-  --green-dim: #22c55e20;
-  --green-dark: #166534;
-  --blue: #60a5fa;
-  --user-bg: #1a3a2a;
-  --radius: 12px;
-}
+--bg: #0b0f14;  
+--bg-card: #111820;
+--bg-input: #161d27;
+--bg-hover: #1a2230;
+--border: #1e2a38;
+--text: #e4e8ed;
+--text-muted: #6b7a8d;
+--green: #34d399;
+--green-dim: #22c55e20;
+--green-dark: #166534;
+--blue: #60a5fa;
+--user-bg: #1a3a2a;
+--radius: 12px;}
 
 html, body {
   height: 100%;
